@@ -1,6 +1,21 @@
 # Breast Cancer Wisconsin Diagnosis using Logistic Regression
+This project implements logistic regression to classify breast cancer diagnoses based on various features. It utilizes the Breast Cancer Wisconsin (Diagnostic) Dataset, available in data.csv.
 
-### Overview 
+### Overview
+The project involves:
+
+- Data preprocessing using pandas.
+- Model training and evaluation using logistic regression.
+- Comparison of results with sklearn's logistic regression implementation.
+
+### Requirements
+Ensure you have the following dependencies installed:
+
+- Python 3.x
+- NumPy
+- pandas
+- Matplotlib
+- scikit-learn
 
 ### Contributing
 Contributions are welcome! Please feel free to submit issues and pull requests.
