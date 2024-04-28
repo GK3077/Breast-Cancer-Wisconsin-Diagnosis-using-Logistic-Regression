@@ -17,6 +17,9 @@ Ensure you have the following dependencies installed:
 - Matplotlib
 - scikit-learn
 
+### Files
+- `data.csv`: Contains the dataset.
+- `Breast Cancer Wisconsin Diagnosis using Logistic Regression.ipynb`: Main Python script implementing logistic regression and model evaluation.
 ### Contributing
 Contributions are welcome! Please feel free to submit issues and pull requests.
 
