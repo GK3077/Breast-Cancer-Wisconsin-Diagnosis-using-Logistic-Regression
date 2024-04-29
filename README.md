@@ -20,6 +20,12 @@ Ensure you have the following dependencies installed:
 ### Files
 - `data.csv`: Contains the dataset.
 - `Breast Cancer Wisconsin Diagnosis using Logistic Regression.ipynb`: Main Python script implementing logistic regression and model evaluation.
+
+### Implementation Details
+- Data is preprocessed by removing unnecessary columns and normalizing features.
+- The logistic regression model is trained using gradient descent with forward and backward propagation.
+- Model performance is evaluated using train and test accuracy metrics.
+
 ### Contributing
 Contributions are welcome! Please feel free to submit issues and pull requests.
 
