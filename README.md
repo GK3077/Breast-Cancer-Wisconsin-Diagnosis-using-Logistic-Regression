@@ -26,6 +26,13 @@ Ensure you have the following dependencies installed:
 - The logistic regression model is trained using gradient descent with forward and backward propagation.
 - Model performance is evaluated using train and test accuracy metrics.
 
+### Results
+- Train accuracy: 80.75%
+- Test accuracy: 81.40%
+- Comparison with sklearn's logistic regression:
+  - Test accuracy: 89.53%
+  - Train accuracy: 86.34%
+
 ### Contributing
 Contributions are welcome! Please feel free to submit issues and pull requests.
 
